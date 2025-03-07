@@ -7,6 +7,7 @@ Features & Workflow
 1️⃣ User Roles
 
 🔹 Student
+
 Login using name & student ID
 Report lost or found items with details & image
 View lost/found items reported by others
@@ -14,6 +15,7 @@ Search for specific items by category
 Logout after use
 
 🔹 Admin
+
 Login using username & password
 View and manage all reported items
 Search items by category
@@ -21,11 +23,13 @@ Analyze data using visual charts
 Logout after use
 
 2️⃣ Reporting a Lost or Found Item
+
 ✅ Enter item details (name, category, location, description, date, contact info)
 ✅ Upload an optional image for better identification
 ✅ Data is saved in a CSV file (lost_and_found.csv)
 
 3️⃣ Viewing & Searching Items
+
 🔹 Students can browse reported items by selecting "View Lost Items" or "View Found Items"
 🔹 A search option allows filtering by category
 🔹 Items are displayed with details & images (if available)
