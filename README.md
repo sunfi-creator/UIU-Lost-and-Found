@@ -19,6 +19,7 @@ View and manage all reported items
 Search items by category
 Analyze data using visual charts
 Logout after use
+
 2️⃣ Reporting a Lost or Found Item
 ✅ Enter item details (name, category, location, description, date, contact info)
 ✅ Upload an optional image for better identification
