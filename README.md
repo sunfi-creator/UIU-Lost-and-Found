@@ -25,7 +25,9 @@ Logout after use
 2️⃣ Reporting a Lost or Found Item
 
 ✅ Enter item details (name, category, location, description, date, contact info)
+
 ✅ Upload an optional image for better identification
+
 ✅ Data is saved in a CSV file (lost_and_found.csv)
 
 3️⃣ Viewing & Searching Items
@@ -36,6 +38,9 @@ Logout after use
 
 4️⃣ Admin Dashboard & Data Visualization
 ✅ Overview of total, lost & found items
+
 ✅ Bar chart & pie chart for category distribution
+
 ✅ Line & scatter plots to track lost items over time
+
 ✅ Location-based analysis to find common lost-item areas
